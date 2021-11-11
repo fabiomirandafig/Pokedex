@@ -1,4 +1,5 @@
-# pokedex
+# Pokedex
+Aplicação que utiliza API de pokemons.
 
 ## Project setup
 ```
